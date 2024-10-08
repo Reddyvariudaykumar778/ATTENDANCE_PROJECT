@@ -26,7 +26,6 @@ Technologies Used
 Programming Language: Java
 Framework: Android SDK
 Database: SQLite
-Facial Recognition Library: [Specify the library used, e.g., OpenCV, Google ML Kit]
-Networking: [Specify any networking libraries used, if applicable]
+
 Contributing
 Contributions are welcome! If you would like to contribute to the project, please fork the repository and submit a pull request.
